@@ -39,17 +39,17 @@ We choose Deutz-kalker street. And one train station for shooting this video.
 * 	Video editing.
 I use the clip champ software which gives me the solution to manage different videos and photos together and also to produce the background voice then allows me to enter the voiceover for my advertisement. The timeline is here
 
-![Step 1: Loading the footage](1.jpg)
-*Step 1: Loading the footage*
+![Step 1: Loading the footage](4.jpg)
+*Step 1: Combining the video footages*
 
-![Step 2: Loading the footage](2.jpg)
+![Step 2: Loading the footage](3.jpg)
+*Step 2: Adding background music*
 
+![Step 3: Loading the footage](2.jpg)
+*Step 3: Adding Voiceover to the footage*
 
-![Step 3: Loading the footage](3.jpg)
-
-
-![Step 4: Loading the footage](4.jpg)
-
+![Step 4: Loading the footage](1.jpg)
+*Step 4: Final adjustments and color corrections*
 
 ## Reflection and experience
 
