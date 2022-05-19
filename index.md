@@ -6,11 +6,14 @@
 The world has seen rapid evolution in technology, especially since the 21st century. The nature of problems has since changed and the scientific advancements have made it possible to solve everyday problems that were once considered trivial. One such problem is related to the “daily commute” that almost everyone in the working class faces. Light methods of traveling short distances have been rapidly evolving and the last decade has seen new methods such as E-Scooters that are much more reliable and convenient. 
 The video is basically an encapsulation of the modern-day problems related to the already existing method of short commutes. Problems that are encountered commonly in bicycles such as flat tires and high effort for travel in cases of disease or sickness are addressed in the video and the e-scooter is presented as a viable solution to them.  
 The video also goes on to show the features of the product and its specifications to highlight to the customers, if it can be a viable product for them. 
+ 
 
 ## Target Audience and Interest Capture
+
 The video is targeted toward the audience that is in their mid-20 and it addresses the problems which are commonly faced by the people. Every person who belongs to the working class and travels by bicycle has at least faced one of the problems that were described in the video. 
 Secondly, the video showcases an innovative solution to these problems and the concept of an e-scooter is certainly intriguing. The use case is simple enough that the audience realizes the fact that the product doesn’t require much setup and is very convenient even for beginners. 
 Thirdly, anything that reduces human effort will be perceived as interesting and a large portion of people wants to make their life easier. Bi-cycle is healthier, but it does require much more effort. The other mode of transportation is buses or cars which are certainly not feasible for everyone. This is where the e-scooter comes in. It provides a middle ground for people to choose their mode of transport. 
+ 
 
 ## Considerations
 
@@ -72,7 +75,7 @@ I use the clip champ software which gives me the solution to manage different vi
 ### Cast   
 
 #### Producer and Cameraman
-* Ansar Mukhtar
+* Ansar Mukhtar 
 
 #### Director
 * Faaiz Ahmed
