@@ -64,7 +64,10 @@ I use the clip champ software which gives me the solution to manage different vi
 
 ### Product Specification Screenshots reference: 
 
-* Bolt | Scooters. (2022). Bolt. https://bolt.eu/en/scooters/
+* Bolt Scooters. (2022). Bolt. https://bolt.eu/en/scooters/
+* R. (2021, July 9). In Gifhorn können ab 2. Juli E-Scooter gebucht werden. BZV Medienhaus GmbH, Braunschweig, Germany. https://www.gifhorner-rundschau.de/gifhorn/article232679037/E-Scooter-Anbieter-Bolt-kommt-nach-Gifhorn.html
+* Laanemägi, J. (2020, November 17). Bolt launches new, custom-built scooter model. Bolt. https://blog.bolt.eu/en/bolt-launches-new-custom-built-scooter-model/
+* Petrushihhina, J. (2022, January 4). Bolt hat es sich zur Aufgabe gemacht, das Fahren mit dem E-Scooter für alle sicherer zu machen. Bolt. https://blog.bolt.eu/de/bolt-hat-es-sich-zur-aufgabe-gemacht-das-fahren-mit-dem-scooter-fur-alle-sicherer-zu-machen/
 
 ### Cast   
 
