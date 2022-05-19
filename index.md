@@ -33,14 +33,14 @@ In the research process, I found that E-scooter is the best problem solution for
 * 	Problem highlights. 
 The traditional methods have a problem such as the tire of own bi-cycle on time is not able to ride or sometimes we missed the train by few seconds etc.
 * 	Cast selection.
-For the casting of this video, I contacted my friends and have a team of five people who perform in this video on different stages and points.
+For the casting of this video, I contacted my friends and have a team of six people who perform in this video on different stages and points.
 * 	Filming (Locations props etc.)
 We choose Deutz-kalker street. And one train station for shooting this video. 
 * 	Video editing.
 I use the clip champ software which gives me the solution to manage different videos and photos together and also to produce the background voice then allows me to enter the voiceover for my advertisement. The timeline is here
 
 ![Step 1: Loading the footage](1.jpg)
-
+*Step 1: Loading the footage*
 
 ![Step 2: Loading the footage](2.jpg)
 
@@ -60,5 +60,24 @@ I use the clip champ software which gives me the solution to manage different vi
 * 	In a nutshell, it has been a great opportunity to learn and a fun way to execute the project. 
 
 ## Reference	
+
+
+### Product Specification Screenshots reference: 
+
+* Bolt | Scooters. (2022). Bolt. https://bolt.eu/en/scooters/
+
+### Cast   
+
+#### Producer and Cameraman
+* Ansar Mukhtar
+
+#### Director
+* Faaiz Ahmed
+
+#### Actors
+* Abbas safdar
+* Luqman Asif
+* Waheed Ahmed
+* Areeb Ali 
 
 
